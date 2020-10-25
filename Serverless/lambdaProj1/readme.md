@@ -4,4 +4,4 @@ Write a Lambda function that will create an EC2 instance. This Lambda function w
 
 
 
-<a href="url"><img src="https://github.com/riched158/AWS/blob/main/Serverless/lambdaProj1/aws1.jpeg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/riched158/AWS/blob/main/Serverless/lambdaProj1/aws1.jpeg" align="center" height="48" width="48" ></a>
