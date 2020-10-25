@@ -7,6 +7,7 @@ A series of projects covering different aspects of AWS
 
 Create a simple lambda function and relevant roles to create a EC2 instance using Python Boto2.  Test instance by SSH   
 
+# Data
 
 ## Project 2: [Data modeling with Apache Cassandra](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project2)
 
