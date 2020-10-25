@@ -1,4 +1,4 @@
 Write a Lambda function that will create an EC2 instance. This Lambda function will be written in Python using the Boto3 library. Also create a custom Lambda execution policy for our IAM role. Then log into the new EC2 instance via SSH.
 
 
-![Drag Racing](aws.jpg)
+![Drag Racing](aws1.jpeg)
