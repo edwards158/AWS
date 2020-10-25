@@ -1,15 +1,9 @@
 # AWS
-AWS Projects
+A series of projects covering different aspects of AWS
 
+## Project 1: [EC2 Lambda](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project1)
 
-# Udacity Data Engineering NanoDegree
-Learn to design data models, build data warehouses and data lakes, automate data pipelines and work with massive datasets
-
-Files and resources for the [Udacity Data Engineer NanoDegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) &nbsp; 
-
-## Project 1: [Data modeling with PostgreSQL](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project1)
-
-Model user activity data for a music streaming app called Sparkify. Create a relational database and ETL pipeline designed to optimize queries for understanding what songs users are listening to. In PostgreSQL define Fact and Dimension tables and insert data into the new tables.
+Create a simple lambda function and relevant roles to create a EC2 instance using Python Boto2.  Test instance by SSH   
 
 
 ## Project 2: [Data modeling with Apache Cassandra](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project2)
