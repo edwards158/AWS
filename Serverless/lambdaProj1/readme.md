@@ -3,6 +3,6 @@ Write a Lambda function that will create an EC2 instance. This Lambda function w
 <img src="https://github.com/riched158/AWS/blob/main/Serverless/lambdaProj1/aws1.jpeg" width="200" height="200">
 
 
-![test](https://github.com/favicon.ico)
+)
 
 <img src="https://github.com/favicon.ico" width="48" height="60">
