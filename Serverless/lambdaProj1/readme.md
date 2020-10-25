@@ -4,3 +4,5 @@ Write a Lambda function that will create an EC2 instance. This Lambda function w
 
 
 ![test](https://github.com/favicon.ico)
+
+<img src="https://github.com/favicon.ico" width="48">
