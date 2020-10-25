@@ -1,7 +1,7 @@
 # AWS
 A series of projects covering different aspects of AWS
 
-## Project 1: [EC2 Lambda](https://github.com/riched158/UdacityDataEngineering/tree/master/datamodelling/project1)
+## Project 1: [EC2 Lambda](https://github.com/riched158/AWS/tree/main/Serverless/lambdaProj1)
 
 Create a simple lambda function and relevant roles to create a EC2 instance using Python Boto2.  Test instance by SSH   
 
