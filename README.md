@@ -1,7 +1,7 @@
 # AWS
 A series of projects covering different aspects of AWS
 
-#Serverless
+# Serverless
 
 ## Project 1: [EC2 Lambda](https://github.com/riched158/AWS/tree/main/Serverless/lambdaProj1)
 
