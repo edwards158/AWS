@@ -3,4 +3,4 @@ Write a Lambda function that will create an EC2 instance. This Lambda function w
 
 ![Drag Racing](aws1.jpeg = 50 x 50)
 
-Here is an inline ![smiley](aws1.jpeg){:height="36px" width="36px"}.
+Here is an inline ![smiley](aws1.jpeg){:height="10px" width="10px"}.
